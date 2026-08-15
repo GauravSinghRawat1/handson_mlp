@@ -7,11 +7,11 @@ This repository contains my Jupyter/Colab notebooks where I practice and impleme
 
 ## 🛠️ Tools & Libraries Used
 * **Languages:** Python
-* **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFlow/Keras (Add or remove based on what you use)
+* **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFlow/Keras, Pytorch
 * **Environment:** Google Colab / Jupyter Notebook
 
 ## 📁 Repository Structure
-Currently, this repository contains standalone notebooks covering different ML topics. (I will update this section as the repository grows).
+Currently, this repository contains standalone notebooks covering different ML topics.
 
 ---
 *Feel free to explore the notebooks!*
